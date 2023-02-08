@@ -5,3 +5,4 @@
 4-listmorefiles - A shell script which displays the contents of the current directory (including hidden files) in long format
 5-listfilesdigitonly - A shell script which displays the contents of the current directory (including hidden files and displaying user/group IDs numerically) in a long format
 6-firstdirectory - A shell script which creates a directory 'my_first_directory' in the /tmp folder
+7-movethatfile - A shell script which moves the file /tmp/betty to /tmp/my_first_directory/betty

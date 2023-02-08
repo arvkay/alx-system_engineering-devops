@@ -3,3 +3,4 @@
 2-bring_me_home - A shell script which changes the working directory to the user's home directory without using any environment variable
 3-listfiles - A shell script which displays the contents of the current directory in long format
 4-listmorefiles - A shell script which displays the contents of the current directory (including hidden files) in long format
+5-listfilesdigitonly - A shell script which displays the contents of the current directory (including hidden files and displaying user/group IDs numerically) in a long format

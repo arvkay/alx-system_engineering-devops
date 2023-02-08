@@ -10,3 +10,4 @@
 9-firstdirdeletion - A shell script which deletes the /tmp/my_first_directory file
 10-back - A shell script which changes the working directory to the previous one
 11-lists - A shell script that lists files in current, parent and /boot directory
+12-file_type - A shell script that prints the type of /tmp/iamafile

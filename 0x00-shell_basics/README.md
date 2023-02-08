@@ -11,3 +11,4 @@
 10-back - A shell script which changes the working directory to the previous one
 11-lists - A shell script that lists files in current, parent and /boot directory
 12-file_type - A shell script that prints the type of /tmp/iamafile
+13-symbolic_link - A shell script thtat creates a symbolic link named "__ls__" between /bin/ls and working directory

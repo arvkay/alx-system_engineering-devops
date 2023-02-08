@@ -2,3 +2,4 @@
 1-listit - A shell script which prints the contents list of your current directory
 2-bring_me_home - A shell script which changes the working directory to the user's home directory without using any environment variable
 3-listfiles - A shell script which displays the contents of the current directory in long format
+4-listmorefiles - A shell script which displays the contents of the current directory (including hidden files) in long format

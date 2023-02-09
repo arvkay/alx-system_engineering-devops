@@ -2,3 +2,4 @@
 1-who_am_i - A shell script which displays the username
 2-groups - A shell script that prints all the groups the user is part of
 3-new_owner - A shell script that changes the owner of file hello to user "betty"
+4-empty - A shell script that creates a new empty file named hello

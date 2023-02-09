@@ -5,3 +5,4 @@
 4-empty - A shell script that creates a new empty file named hello
 5-execute - A shell script that adds execute permission to the owner of file hello
 6-multiple_permissions - A shell script that adds multiple permissions to owner, groups and others
+7-everybody - A shell script that adds execute permissions to owner, groups and others

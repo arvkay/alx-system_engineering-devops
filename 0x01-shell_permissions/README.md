@@ -9,3 +9,4 @@
 8-James_Bond - A shell script that gives all permissions to others and revokes all permissions from groups and users on the file hello
 9-John_Doe - A shell script that gives specific permissions to file hello
 10-mirror_permissions - A shell script the sets the permissions of a file olleh the same as file hello
+11-directories_permissions - A shell script that adds execute permission to all subdirectories of current directory

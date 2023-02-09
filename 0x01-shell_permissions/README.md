@@ -11,3 +11,4 @@
 10-mirror_permissions - A shell script the sets the permissions of a file olleh the same as file hello
 11-directories_permissions - A shell script that adds execute permission to all subdirectories of current directory
 12-directory_permissions - A shell script that creates a directory my_dir with permissions 751
+13-change_group - A shell script that changes the group owner to school for the file hello in the same directory

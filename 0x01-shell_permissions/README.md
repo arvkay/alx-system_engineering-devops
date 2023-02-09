@@ -6,3 +6,4 @@
 5-execute - A shell script that adds execute permission to the owner of file hello
 6-multiple_permissions - A shell script that adds multiple permissions to owner, groups and others
 7-everybody - A shell script that adds execute permissions to owner, groups and others
+8-James_Bond - A shell script that gives all permissions to others and revokes all permissions from groups and users on the file hello

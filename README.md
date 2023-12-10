@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Repository for shell concepts and practice
